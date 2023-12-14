@@ -1,5 +1,5 @@
 # 💫 About Me:
-✈ -> Aerospace engineer<br>🏍 -> Motorsport entusiast<br>💻-> I code to chill<br>I'm still learning, my favorite languages are Python, C, C# and JavaScript
+🏍 -> Motorsport entusiast<br>💻-> I code to chill<br>I'm still learning, my favorite languages are Python, C, C# and JavaScript
 
 
 ## 🌐 Socials:
