@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👋 Hi there! I'm a passionate maker who loves bringing ideas to life with Arduino, custom circuits, and all things electronics.
+## 📚 By day, I teach IT, robotics, and electronics, sharing my passion and helping others discover the joy of building and coding.
+- 👋 I'm a passionate maker who loves bringing ideas to life with Arduino, custom circuits, and all things electronics.
 - 🎮 I enjoy diving into game development using Unity and Pygame, mixing code and creativity to build interactive worlds.
 - 🧪 I'm fascinated by simulation—whether it's physics, systems, or logic, I love modeling how things work.
 - 🌐 I also explore the world of web development, building dynamic and responsive web experiences.
