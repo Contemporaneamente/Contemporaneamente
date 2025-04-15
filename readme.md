@@ -1,6 +1,10 @@
 # 💫 About Me:
-🏍 -> Motorsport entusiast<br>💻-> I code to chill<br>I'm still learning, my favorite languages are Python, C, C# and JavaScript
+- 👋 Hi there! I'm a passionate maker who loves bringing ideas to life with Arduino, custom circuits, and all things electronics.
+- 🎮 I enjoy diving into game development using Unity and Pygame, mixing code and creativity to build interactive worlds.
+- 🧪 I'm fascinated by simulation—whether it's physics, systems, or logic, I love modeling how things work.
+- 🌐 I also explore the world of web development, building dynamic and responsive web experiences.
 
+Always learning, always tinkering. Let’s build something cool!
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/swordoffireandice) 
